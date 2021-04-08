@@ -1,14 +1,12 @@
 
 def vendupart():
- print()
+ print("launch")
 
 def fredpart():
- print()
-
-
-
-
+ print('dinner')
 
 
 def main():
- print("hi vendu")
+ print('hivendu')
+fredpart()
+
